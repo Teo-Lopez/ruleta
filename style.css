@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  margin: 0 auto;
+  display: block;
+}
+
+.wrapper {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+}
+
+input {
+  margin: 0 10%;
+  padding: 20px 50px;
+  background-color: blue;
+  color: whitesmoke;
+  font-size: 2em;
+}
